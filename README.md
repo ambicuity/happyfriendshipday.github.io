@@ -20,7 +20,6 @@ Visit the live site: [Happy Friendship Day](https://ambicuity.github.io/happyfri
 ```
 ├── index.html          # Main HTML file
 ├── animations.css      # Optimized animation styles
-├── style.css          # Legacy CSS file (kept for reference)
 └── README.md          # Project documentation
 ```
 
@@ -69,7 +68,7 @@ Feel free to fork this project and make improvements! Some ideas:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available for personal use.
 
 ## 💝 Created with ❤️ for Friendship Day
 

@@ -13,6 +13,8 @@ A beautiful, animated webpage to celebrate Friendship Day!
 
 Visit the live site: [Happy Friendship Day](https://ambicuity.github.io/happyfriendshipday.github.io/)
 
+> **Note**: The site is automatically deployed via GitHub Actions whenever changes are pushed to the main branch.
+
 ## 📁 Project Structure
 
 ```
@@ -36,6 +38,18 @@ The webpage features:
 - HTML5
 - CSS3 (with animations)
 - GitHub Pages for hosting
+- GitHub Actions for automated deployment
+
+## 🚀 Deployment
+
+This site is automatically deployed to GitHub Pages using GitHub Actions:
+
+- **Trigger**: Pushes to `main` or `master` branch
+- **Manual Deploy**: Available via GitHub Actions tab
+- **Permissions**: Configured for GitHub Pages deployment
+- **Artifact**: Static files are uploaded and deployed automatically
+
+The deployment workflow is defined in `.github/workflows/static.yml`.
 
 ## 📱 Browser Support
 
